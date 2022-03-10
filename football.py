@@ -1,3 +1,5 @@
+#FIRST DOWNLOAD STREAMLIT
+#RUN WITH COMMAND streamlit run football.py
 import streamlit as st
 import pandas as pd
 import base64
